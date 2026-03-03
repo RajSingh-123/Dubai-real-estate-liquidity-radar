@@ -47,6 +47,8 @@ The dashboard is structured into four analytical layers:
 - Visa Eligibility %
 - Annual Growth
 - Capital Efficiency Matrix
+<img width="1191" height="759" alt="Page1" src="https://github.com/user-attachments/assets/8adca37e-5abe-4a08-93da-27877afe2571" />
+
 
 ### 2️⃣ Momentum & Capital Rotation Layer
 - Exit Liquidity Shift %
@@ -54,18 +56,23 @@ The dashboard is structured into four analytical layers:
 - Exit Velocity Index (EVI)
 - Transaction Velocity
 - Price Acceleration %
+<img width="890" height="637" alt="Page2" src="https://github.com/user-attachments/assets/371e4ee2-12fb-4edd-80ea-203bd291731e" />
+
 
 ### 3️⃣ Structural Risk & Sustainability Layer
 - Price Volatility Index
 - Capital at Risk (AED)
 - Institutional vs Speculative Classification
 - Sustainability Matrix
+<img width="1029" height="735" alt="Page3" src="https://github.com/user-attachments/assets/d8c91528-358e-4601-b86b-0bad03bacfdf" />
+
 
 ### 4️⃣ Investment Intelligence Brief
 - Market Regime Identification
 - Liquidity Threshold Definition
 - Allocation Playbook
 - Strategic Risk Controls
+<img width="1038" height="724" alt="Summary" src="https://github.com/user-attachments/assets/8ca57792-b34b-4e1d-99c8-688c3ac5e576" />
 
 ---
 
@@ -138,3 +145,4 @@ A structured institutional-style research brief explaining the model framework a
 
 Raj Singh Thakuri  
 Data Analyst | Business Intelligence | Capital Market Analytics  
+
